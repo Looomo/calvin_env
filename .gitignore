@@ -1,3 +1,5 @@
 calvin_env.egg-info
 calvin_env/envs/__pycache__/
 calvin_env/envs/__pycache__/play_table_env.cpython-38.pyc
+calvin_env/__pycache__
+*__pycache__*
