@@ -3,3 +3,5 @@ calvin_env/envs/__pycache__/
 calvin_env/envs/__pycache__/play_table_env.cpython-38.pyc
 calvin_env/__pycache__
 *__pycache__*
+calvin_env/scene/objects/__pycache__/button.cpython-38.pyc
+*.pyc
